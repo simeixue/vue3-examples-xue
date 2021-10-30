@@ -118,6 +118,9 @@ export default defineComponent({
   props: {
     msg: String,
   },
+  setup() {
+    let a = 10;
+  },
 });
 </script>
 
