@@ -1,5 +1,5 @@
-import { createApp } from "vue";
-import App from "./App.vue";
+import { createApp } from "vue"; // 在页面引入vue
+import App from "./App.vue"; // 引入自定义组件
 import router from "./router";
 import store from "./store";
 
